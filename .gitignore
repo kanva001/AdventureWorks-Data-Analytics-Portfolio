@@ -1,0 +1,9 @@
+﻿# Excel temp files
+~$*.xlsx
+
+# Power BI temp/cache
+*.pbix.tmp
+
+# OS
+.DS_Store
+Thumbs.db
