@@ -1,0 +1,5 @@
+# Power BI cache/temp
+*.pbix.tmp
+*.pbit.tmp
+**/.pbi/
+**/.cache/
